@@ -1,0 +1,11 @@
+.btn .icon {
+  margin: 0;
+}
+
+.ts-dropdown.single {
+  z-index: 10000;
+}
+
+.page-title {
+  color: black;
+}
